@@ -4,7 +4,8 @@ This is a step by step console game, where you might walk on map, fight with ene
 
 It`s my learning project for proof and fixing my skills in basic C++ coding and design simple game mechanics. It`s not ideal and looks like skelet demo, but I do my major idea and basic mechanics.
 
-You may download execute file and test it.
+You may download Execute archive
+```
 
 
 # Entities and mechanics
