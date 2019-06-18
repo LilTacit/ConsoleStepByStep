@@ -9,7 +9,7 @@ You may download Execute archive for testing it.
 ```
 
 
-# Entities and mechanics
+## Entities and mechanics
 
 Map
 * Kind of container class which looks like 2D matrix, filled bits of the map - MapCell, and contains methods for work with map. On map placing: player, enemies and treasures.
@@ -29,7 +29,7 @@ Treasure
 * Simple container class for convenient manage gold and collect items for Player (For realize last I just did not have time, sorry).
 
 
-# Random map generating
+## Random map generating
 I do simple random map generating, it`s happens like this:
 1. Random start and exit positions on opposite map sections.
 2. Random build main path from start to end map.
@@ -38,8 +38,11 @@ I do simple random map generating, it`s happens like this:
 
 Most operations work with Directions[LEFT, RIGHT, UP, DOWN] and random numbers.
 
+![maps](article_materials/maps.jpg)
+![random generating](article_materials/rand-map-build.gif)
 
-# What I learned
+
+## What I learned
 
 * C++ Basic & Core
 * Debug in Microsoft Visual Studio C++
@@ -47,3 +50,9 @@ Most operations work with Directions[LEFT, RIGHT, UP, DOWN] and random numbers.
 * (little bit) Data structures
 * 2D math
 * Random level generating
+
+
+## Future updates
+
+* Adjust stability of random generating
+* New fixed maps and enemy types
