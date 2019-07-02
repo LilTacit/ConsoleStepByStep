@@ -46,7 +46,7 @@ Most operations work with Directions[LEFT, RIGHT, UP, DOWN] and random numbers.
 
 * C++ Basic & Core
 * Debug in Microsoft Visual Studio C++
-* (little bit) Cycle & algorithms design
+* (little bit) algorithms design
 * (little bit) Data structures
 * 2D math
 * Random level generating
